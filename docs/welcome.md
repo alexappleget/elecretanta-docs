@@ -31,7 +31,7 @@ Once you have some understanding of the project structure, let's go ahead and di
 
 ## Database & Backend
 
-We are using **Supabase** as our database and backend service. Supabase is an easy to use PostgreSQL BaaS (backend as a service). We use it for authentication as well. Currently, we only have google auth set up, but are hoping to add more in the future. To learn more about how our database is structured and how the data looks, check out the documentation [here]().
+We are using **Supabase** as our database and backend service. Supabase is an easy to use PostgreSQL BaaS (backend as a service). We use it for authentication as well. Currently, we only have google auth set up, but are hoping to add more in the future. To learn more about how our database is structured and how the data looks, check out the documentation [here](./backend.md).
 
 ## Tips & Tricks
 
