@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Supabase Structure: Coming soon!
 
-We use **Supabase** as our backend and database service. Our setup includes two separate databases: one for **production** and one for **staging**. During development, all changes are made to the staging database. The production database is only used in the live environment. This separation helps prevent accidental changes or downtime in procudtion, keeping our app stable and reliable.
+We use **Supabase** as our backend and database service. Our setup includes two separate databases: one for **production** and one for **staging**. During development, all changes are made to the staging database. The production database is only used in the live environment. This separation helps prevent accidental changes or downtime in production, keeping our app stable and reliable.
 
 ## How the Database Looks
 
